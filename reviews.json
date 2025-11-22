@@ -1,0 +1,17 @@
+[
+  { "_id": 1001, "bikeId": 101, "userId": 501, "rating": 4.5, "comment": "Amazing bike!", "date": "2025-11-22" },
+  { "_id": 1002, "bikeId": 101, "userId": 502, "rating": 4.0, "comment": "Good handling.", "date": "2025-11-21" },
+  { "_id": 1003, "bikeId": 102, "userId": 503, "rating": 4.2, "comment": "Smooth ride.", "date": "2025-11-20" },
+  { "_id": 1004, "bikeId": 103, "userId": 504, "rating": 4.1, "comment": "Comfortable seating.", "date": "2025-11-19" },
+  { "_id": 1005, "bikeId": 104, "userId": 505, "rating": 4.3, "comment": "Stylish design.", "date": "2025-11-18" },
+  { "_id": 1006, "bikeId": 105, "userId": 501, "rating": 4.0, "comment": "Good mileage.", "date": "2025-11-17" },
+  { "_id": 1007, "bikeId": 106, "userId": 502, "rating": 4.2, "comment": "Fast & reliable.", "date": "2025-11-16" },
+  { "_id": 1008, "bikeId": 107, "userId": 503, "rating": 4.4, "comment": "Perfect for daily commute.", "date": "2025-11-15" },
+  { "_id": 1009, "bikeId": 108, "userId": 504, "rating": 4.1, "comment": "Excellent handling.", "date": "2025-11-14" },
+  { "_id": 1010, "bikeId": 109, "userId": 505, "rating": 4.3, "comment": "Beautiful color options.", "date": "2025-11-13" },
+  { "_id": 1011, "bikeId": 110, "userId": 501, "rating": 4.2, "comment": "Value for money.", "date": "2025-11-12" },
+  { "_id": 1012, "bikeId": 111, "userId": 502, "rating": 4.1, "comment": "Lightweight & fast.", "date": "2025-11-11" },
+  { "_id": 1013, "bikeId": 112, "userId": 503, "rating": 4.3, "comment": "Smooth brakes.", "date": "2025-11-10" },
+  { "_id": 1014, "bikeId": 113, "userId": 504, "rating": 4.0, "comment": "Comfortable for city ride.", "date": "2025-11-09" },
+  { "_id": 1015, "bikeId": 114, "userId": 505, "rating": 4.2, "comment": "Good suspension.", "date": "2025-11-08" }
+]

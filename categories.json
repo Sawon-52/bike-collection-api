@@ -1,0 +1,5 @@
+[
+  { "_id": 1, "name": "Sports", "description": "High performance bikes", "icon": "🏍️" },
+  { "_id": 2, "name": "Naked", "description": "Lightweight street bikes", "icon": "🛵" },
+  { "_id": 3, "name": "Commuter", "description": "Economical daily use bikes", "icon": "🚲" }
+]

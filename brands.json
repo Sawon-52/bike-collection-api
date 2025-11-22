@@ -1,0 +1,7 @@
+[
+  { "_id": 1, "name": "Yamaha", "country": "Japan", "founded": 1955, "logo": "https://i.ibb.co/61RwGJw/yamaha-logo.png", "popularModels": [101, 102, 103, 104] },
+  { "_id": 2, "name": "Honda", "country": "Japan", "founded": 1948, "logo": "https://i.ibb.co/RbX7GqT/honda-logo.png", "popularModels": [105, 106, 107, 108] },
+  { "_id": 3, "name": "Suzuki", "country": "Japan", "founded": 1909, "logo": "https://i.ibb.co/NtWQkfR/suzuki-logo.png", "popularModels": [109, 110, 111, 112] },
+  { "_id": 4, "name": "TVS", "country": "India", "founded": 1978, "logo": "https://i.ibb.co/wcFrJDr/tvs-logo.png", "popularModels": [113, 114, 115, 116] },
+  { "_id": 5, "name": "Bajaj", "country": "India", "founded": 1926, "logo": "https://i.ibb.co/wKn3Vdw/bajaj-logo.png", "popularModels": [117, 118, 119, 120] }
+]

@@ -1,0 +1,7 @@
+[
+  { "_id": 501, "name": "Mehedi Hasan", "email": "mehedi@example.com", "avatar": "https://i.ibb.co/xxx/avatar1.png" },
+  { "_id": 502, "name": "Rahim Uddin", "email": "rahim@example.com", "avatar": "https://i.ibb.co/xxx/avatar2.png" },
+  { "_id": 503, "name": "Karim Ahmed", "email": "karim@example.com", "avatar": "https://i.ibb.co/xxx/avatar3.png" },
+  { "_id": 504, "name": "Samiul Islam", "email": "samiul@example.com", "avatar": "https://i.ibb.co/xxx/avatar4.png" },
+  { "_id": 505, "name": "Tariq Khan", "email": "tariq@example.com", "avatar": "https://i.ibb.co/xxx/avatar5.png" }
+]

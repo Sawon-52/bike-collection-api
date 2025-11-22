@@ -1,0 +1,19 @@
+{
+  "_id": 101,
+  "name": "Yamaha R15 V4",
+  "brand": { "_id": 1, "name": "Yamaha", "country": "Japan", "logo": "https://i.ibb.co/61RwGJw/yamaha-logo.png" },
+  "category": { "_id": 1, "name": "Sports" },
+  "engine": "155cc",
+  "power": "18.4 PS",
+  "topSpeed": "140 km/h",
+  "mileage": "40 km/l",
+  "price": 520000,
+  "colors": ["Racing Blue","Dark Knight"],
+  "images": ["https://i.ibb.co/2NJVpsm/r15v4.jpg"],
+  "description": "Premium sports bike",
+  "specifications": {"abs":true,"fuelTank":"11L","brakes":"Disc"},
+  "reviews":[
+    { "user":"Mehedi Hasan","rating":4.5,"comment":"Amazing bike!","date":"2025-11-22" },
+    { "user":"Rahim Uddin","rating":4.0,"comment":"Good handling.","date":"2025-11-21" }
+  ]
+}
